@@ -1,0 +1,4 @@
+baseURL = "http://gamerfront.net/"
+languageCode = "en-us"
+title = "GamerFront - Please Insert Coin"
+theme = "casper3"
