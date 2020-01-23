@@ -1,4 +1,4 @@
-baseURL = "http://gamerfront.net/"
+baseURL = "https://flamboyant-babbage-1dc3d0.netlify.com/"
 languageCode = "en-us"
 title = "GamerFront - Please Insert Coin"
 theme = "casper3"
